@@ -1,0 +1,735 @@
+52 Card Pickup
+Accordion (Solitaire) 
+Acepots
+Aces Up (Solitaire)
+Airplane
+All Fives
+All Fours
+Alsos
+Ambigu
+American Brag
+American Pinochle
+American Skat
+American Whist
+Anaconda (Poker)
+Anaconda with Pass Along (Poker)
+Animals
+Any Card Wild (Poker)
+Any Suit Wild (Poker)
+Anything Opens (Poker)
+Any Value Wild (Poker)
+Arlington
+Army and Navy Pinochle
+Around the World (Poker)
+As
+As Nas
+Auction Bid Whist
+Auction Bridge
+Auction Cinch
+Auction Euchre
+Auction Forty-five
+Auction Hearts
+Auction High Five
+Auction Pinochle
+Auction Pinochle with Partners
+Auction Pitch
+Auction Sheepshead
+Auction Sixty-six
+Auld Lang Syne (Solitaire)
+Australian Poker
+Authors
+Automatic Lowball (Poker)
+Auxiliary Sequences (Solitaire)
+Baccara 
+Baccarat
+Bango
+Banker and Broker
+Bank Night (Poker)
+Barnyard
+Baseball (Poker)
+Basset
+Battle Royal
+Beast
+Beat Your Neighbor (Poker)
+Bedsprings (Poker)
+Beer Play
+Beggar My Neighbor 
+Beleaguered Castle (Solitaire)
+Belotte
+Bet or Drop (Poker)
+Betrothal (Solitaire)
+Betty Hutton (Poker)
+Bezique
+Bid Euchre
+Bid Whist
+Bierspiel
+Bimbo (Poker)
+Binochle
+Bisley (Solitaire)
+Black Jack
+Blackjack
+Black Lady
+Black Maria
+Black Widow
+Blackout
+Blind All Fours
+Blind and Straddle (Poker)
+Blind Cinch
+Blind Euchre
+Bind Hookey
+Blind Opening (Poker)
+Blind Stud (Poker)
+Blind Tiger (Poker)
+Block Rummy
+Blucher
+Bluff
+Bobtail Opener (Poker)
+Bobtail Stud (Poker)
+Bolivia
+Boodle
+Boston
+Boston de Fontainebleau
+Bouillotte
+Bourre
+Brag
+Brazilian Canasta
+Brelan
+Bridge
+Build-Up
+Butcher Boy (Poker)
+Calabrasella
+Calabrella
+Calculation (Solitaire)
+California Jack
+California Loo
+California Lowball (Poker)
+Call-Ace Euchre
+Call Rummy 
+Canadian Stud (Poker)
+Canasta
+Cancellation Hearts
+Canfield (Solitaire)
+Cans
+Card Dominoes
+Carousel
+Cassino
+Catch the Ten
+Cayenne 
+Cayenne Whist
+Cedarhurst
+Cent
+Chase the Ace
+Check Pinochle
+Chemin-de-Fer
+Chicago
+Chicago (Four-Deal Bridge)
+Chicago (Poker)
+Chile 
+Chilean Canasta
+Chinese Bezique
+Chinese Bridge (Solitaire)
+Chinese Fan-Tan
+Chinese Whist 
+Chouette
+Cientos
+Cinch 
+Cincinnati (Poker)
+Cincinnati Liz (Poker)
+Cinq Cent
+Citadel (Solitaire)
+Clabber
+Clob
+Clobber
+Clobberyash
+Clubby
+Closed Poker
+Cold Hands Poker
+Cold Hands with Draw (Poker)
+Comet
+Commit
+Commerce
+Commercial Pitch
+Concentration 
+Conquian
+Consolation
+Continental Rummy 
+Contract Bridge
+Contract Pinochle
+Contract Rummy
+Contract Whist
+Coon Can
+Coquette (Solitaire)
+Crapette
+Crazy Aces
+Crazy Eights
+Crazy Jacks
+Cribbage
+Crisscross (Poker)
+Cross Over (Poker)
+Cross Widow (Poker)
+Cuban Canasta
+Cuckoo
+Cutthroat Bridge Cutthroat Euchre 
+Darda 
+Dealer’s Choice (Poker)
+Demon (Solitaire)
+Deuces and Jokers (Poker)
+Deuces and Joker Wild (Poker)
+Deuces and One-eyed Jacks Wild (Poker)
+Deuces and Pothooks Wild (Poker)
+Deuces and Treys Wild (Poker)
+Deuces Wild (Poker)
+Deuces Wilder (Poker)
+Discard Hearts 
+Division Loo 
+Doctor Pepper (Poker)
+Domino Hearts
+Domino Whist
+Dom Pedro
+Donkey
+Double-Barreled Shotgun (Poker)
+Double Dummy Bridge
+Double-Handed High-Low (Poker)
+Double Hasenpfeffer
+Double Hearts
+Double-Pack Pinochle
+Double Pedro
+Double Rum
+Double Solitaire
+Down the River (Poker)
+Draw Cassino 
+Draw Hearts
+Draw Poker
+Dutch Bank 
+Dynamite (Poker) 
+Earl of Coventry
+Écarté
+Eight-Card Stud (Poker)
+Eights
+Eighty-eight (Poker)
+Enflé
+English Poker
+English Stud
+English Whist
+Euchre
+Everlasting
+Fan-Tan
+Farm
+Farmer
+Faro
+Fascination (Solitaire)
+Felsos
+Fiery Cross (Poker)
+Fifteen
+Find the Lady 
+Firehouse Pinochle 
+Fish 
+Five and Dime (Poker)
+Five and Ten
+Five-Card Final (Poker)
+Five-Card Loo
+Five Cards
+Five Fingers
+Five-Card Stud (Poker)
+Five-Card Stud, Last Up or Down (Poker)
+Five-Card Stud with Replacement (Poker)
+Five Hundred 
+Five Hundred Rummy
+Five in One
+Five or Nine
+Flip (Poker)
+Flip Stud (Poker)
+Flower Garden (Solitaire)
+Football (Poker)
+Forty-five
+Forty Thieves (Solitaire)
+Four-Card Poker
+Four-Deal Bridge
+Four-Flush Opener (Poker)
+Four-Flush Poker
+Four-Flush Stud (Poker)
+Four Forty-four (Poker)
+Four Forty-two (Poker)
+Four Jacks
+Four straight
+Frage 
+Freak Hands (Poker)
+Free Wheeling (Poker)
+Freezeout (Poker)
+French Boston
+French Euchre
+French Ruff
+French Whist 
+Frog 
+Gaigel 
+Garbage
+Gentlemen’s Agreement
+German Skat
+German Solo
+German Whist
+Gile 
+Gilet
+Gin Rummy
+Gleek
+Go Boom
+Go Fish 
+Goulash
+Grand
+Grand Demond (Solitaire)
+Gruesome Twosome (Poker)
+Guts (Poker)
+Half-Pot Limit (Poker)
+Hasenpfeffer
+Hearts
+Heartsette
+Heart Solo
+Heinz (Poker)
+High Five
+High, Low, Jack and Game
+High-Low, Jack (All Fours)
+High-Low Draw (Poker)
+High-Low Five-Card Stud (Poker)
+High-Low Jack (Pitch)
+High-Low Poker
+High-Low Rummy
+High-Low Seven-Card Stud (Poker)
+High-Low Six-Card Stud (Poker)
+High Poker
+High Spade Split (Poker)
+Hilo (Poker)
+Hilo Picolo (Poker)
+Hit the Moon
+Hoc
+Hock
+Hoggenheimer
+Hokum (Poker)
+Hold ’Em (Poker)
+Hole-Card Stud (Poker)
+Hollywood (Poker)
+Hollywood Canasta
+Hollywood Gin
+Honest John
+Honeymoon Bridge
+House in the Woods (Solitaire)
+House on the Hill (Solitaire)
+Hurricane (Poker)
+Idiot’s Delight
+Idiot’s Delight (Solitaire)
+Idle Year (Solitaire)
+I Doubt It
+Imperial
+Irish Loo
+Italian Canasta 
+Jackpots (Poker)
+Jacks Back
+Jackson (Poker)
+Jacks High (Poker)
+Jambone
+Jamboree
+Jass 
+Jig
+Joker Euchre
+Joker Hearts
+Joker Poker
+Joker Rummy
+Kaloochi 
+Kaluki
+Kankakee (Poker)
+King Albert (Solitaire)
+King Rummy
+Kings Back
+Kingston (Poker)
+Kings in the Corners
+Klaberjass
+Klob
+Klondike (Solitaire)
+Knock Poker
+Knock Rummy
+Kontraspiel
+Kreutz-Mariage
+La Belle Lucie (Solitaire) 
+Lalapalooza (Poker)
+Lamebrain Pete (Poker)
+Lamebrains (Poker)
+Lansquenet
+Lanterloo 
+Laps
+Last In
+Lazy Edna
+Lazy Lucy (Poker)
+Lefty Louie (Poker)
+Leg in Pot (Poker)
+Lift Smoke
+Liverpool Rummy 
+Long Whist
+Loo
+Lanterloo
+Louis Napoleon (Solitaire)
+Lowball (Poker)
+Low Card Wild (Poker)
+Low English Stud (Poker)
+Low Hole Card Wild (Poker)
+Low Poker
+Lucas (Solitaire)
+Macao 
+Ma Ferguson (Poker)
+Marriage
+Match ’Em (Poker)
+Matrimony
+Maw
+Mediator
+Memory
+Menagerie
+Mexicana
+Mexican Canasta
+Mexican Low Card (Poker)
+Mexican Stud (Poker)
+Mexican Stud with Low Card Wild (Poker)
+Mexican Wild (Poker)
+Michigan
+Michigan Rummy
+Midnight Oil (Solitaire)
+Mike (Poker)
+Misere (Poker)
+Miss Milligan (Solitaire)
+Mistigris (Poker)
+Monte (Poker)
+Monte Bank
+Monte Carlo (Solitaire)
+Mortgage (Poker)
+Muggins
+Multiple Klondike
+Mustached Kings Wild (Poker)
+My Bird Sings
+My Ship Sails
+Nap
+Napoleon
+Napoleon at St. Helena (Solitaire)
+Napoleon’s Favorite (Solitaire)
+Napoleon’s Square (Solitaire)
+Nestor (Solitaire)
+New Guinea Stud (Poker)
+New Market
+New York Stud (Poker)
+Nine-Card Stud (Poker)
+Ninety-nine (Poker)
+Noddy
+No Draw (Poker)
+No Limit (Poker)
+No Low Cards (Poker)
+Norwegian Whist
+Oh, Hell!
+Oklahoma
+Oklahoma Gin
+Old Maid
+Old Sledge
+Omaha (Poker)
+Ombre
+Omnibus Hearts
+One-Card Poker
+One-Eyed Jacks Wild (Poker)
+One-Eyed King Wild (Poker)
+One-Meld Rummy
+Open Gin
+Open Poker
+Option (Poker)
+Pa Ferguson (Poker)
+Pam-Loo 
+Panguingue 
+Pan
+Papillon
+Parliament
+Partnership Games 
+Pass Along (Poker)
+Pass and Back In (Poker)
+Pass on Hearts
+Pass Out (Poker)
+Pass the Garbage
+Pass the Trash (Poker)
+Patience
+Pedro (Pitch)
+Pedro (Poker)
+Pedro Sancho
+Peep Poker
+Peep and Turn (Poker)
+Peep Nap
+Penchant
+Pennies from Heaven
+Penny Ante (Poker)
+Persian Pasha
+Persian Rummy
+Pig
+Pig in Poke (Poker)
+Pink Lady
+Pinochle
+Pinochle Poker
+Pinochle Rummy
+Piquet
+Pirate Bridge
+Pisha Pasha
+Pistol
+Pistol Pete
+Pistol Stud (Poker)
+Pitch
+Pivot Bridge
+Place and Show (Poker)
+Place Poker
+Plafond
+Play or Pay
+Plus or Minus
+Pochen
+Poker
+Poker Gin 
+Poker Rum
+Poker Solitaire (Poker)
+Polignac
+Polish Bezique
+Polish Rummy
+Pope Joan
+Pothooks Wild (Poker)
+Pot Limit (Poker)
+Pounce
+Poverty Poker
+Preference
+Primero (Poker)
+Procter and Gamble (Poker)
+Progressive Bridge
+Progressive Jackpots (Poker)
+Progressive Rummy
+Prussian Whist
+Push Poker
+Pussy Cat (Poker)
+Put and Take 
+Quadrille
+Quatre Valets
+Queen City Poker
+Queen City Rum
+Quinella
+Quinola
+Quinze
+Racehorse
+Railroad Euchre
+Rams
+Rana
+Rangdoodles (Poker)
+Ranter-Go-Round
+Rap Poker
+Razzle Dazzle
+Red and Black
+Red and Black (Trente et Quarante)
+Red Dog
+Red or Black 
+Reversi
+Rickey de Laet (Poker)
+Rolling Stone
+Roodles (Poker)
+Rothschild (Poker)
+Rouge et Noir
+Rounce
+Round of Jacks (Poker)
+Round the Corner (Poker)
+Round the Corner Gin
+Round the Corner Rummy
+Round the World (Poker)
+Royal Cassino
+Royal Draw Cassino
+Royal Marriage (Solitaire)
+Royal Spade Cassino
+Royalton
+Rubicon Bezique
+Rubicon Piquet
+Ruffs and Honors
+Rummy 
+Russian Bank 
+Samba
+Saratoga
+Schafkopf
+Schwellen 
+Scoop
+Scopa
+Scopone
+Scotch Whist
+Screwy Louie (Poker)
+Second Hand Low (Poker)
+Sellout
+Setback
+Setback Bid Whist
+Setback Euchre
+Seven and a Half
+Seven-Card Flip (Poker)
+Seven-Card Flip, Modern Form (Poker)
+Seven-Card Hokum (Poker)
+Seven-Card Mutual (Poker)
+Seven-Card Pete (Poker)
+Seven-Card Reverse (Poker)
+Seven-Card Stud (Poker)
+Seven-Card Stud, Deuces Wild (Poker)
+Seven-Card Stud, High and Low (Poker)
+Seven-Card Stud, Low Card Wild (Poker)
+Seven-Card Stud, Lowest Card Wild (Poker)
+Seven-Card Stud, Lowest Hole Card Wild (Poker)
+Seven-Card Stud, Low Hole Card Wild (Poker)
+Seven-Card Stud, Lowest Upcard Wild (Poker)
+Seven-Card Stud, Low Upcard Wild (Poker)
+Seven-Card Stud, Optional Wild Card (Poker)
+Seven-Card Stud, Wild Variants (Poker)
+Sevens
+Seven-Toed Pete (Poker)
+Seven Up
+Shamrocks (Solitaire)
+Shanghai Rummy
+Shasta Sam
+Sheepshead
+Shifting Sands (Poker)
+Shimmy
+Shotgun (Poker)
+Shove ’Em Along (Poker)
+Showdown Poker
+Sir Garnet
+Six-Bid Solo
+Six-Card Stud (Poker)
+Six Sixty-six (Poker)
+Six-Spot Red Dog
+Sixth Card Optional (Poker)
+Sixty-four Card Pinochle
+Sixty-six
+Sixty-six (Poker)
+Sixty-three
+Skat 
+Sky’s the Limit (Poker)
+Slam
+Slapjack
+Slippery Elmer (Poker)
+Slippery Sam
+Slobberhannes
+Slough
+Sluff
+Smear
+Smudge
+Snip Snap Snorem
+Snoozer
+Solitaire
+Solo
+Solo Whist
+Southern Cross (Poker)
+Spade Cassino 
+Spades as Spoilers (Poker)
+Spades Royal
+Spider (Solitaire)
+Spin 
+Spinado
+Spit (Poker)
+Spit, No Card Wild (Poker)
+Spit, Other Variants (Poker)
+Spite and Malice
+Spit in the Ocean (Poker)
+Spoil Five
+Spot Hearts 
+Stealing Bundles 
+Stops 
+Storehouse (Solitaire)
+Stormy Weather (Poker)
+Straight Poker
+Streets and Alleys (Solitaire)
+Stripped Pack (Poker)
+Stud Poker
+Stud with Spit (Poker)
+Stuss
+Sudden Death (Poker)
+Suit Value Whist
+Super Contract Bridge
+Swedish Rummy
+Table Stakes (Poker)
+Take-All Hearts
+Take It or Leave It (Poker)
+Tam o’ Shanter (Solitaire)
+Tampa 
+Tap Out (Poker)
+Taroc
+Tarok
+Ten-Card Stud (Poker)
+Tennessee (Poker)
+Tennessee Jed (Poker)
+Tens High (Poker)
+Texas Tech (Poker)
+Third Hand High (Poker)
+Thirty and Forty
+Thirty-five
+Thirty-one
+Three-Card Monte
+Three-Card Monte (Poker)
+Three-Card Poker
+Three Forty-Five (Poker)
+Three-Handed Games
+Three Out of Five (Poker)
+Three Pair High (Poker)
+Three-Toed Pete (Poker)
+Throw Away Two (Poker)
+Tiger (Poker)
+TNT (Poker)
+Towie
+Trefoil (Solitaire)
+Treize
+Trenta-Cinque
+Trente et Quarante Tresette
+Triangle Contract 
+Triomphe
+Triumph or Trump
+Trionfetti
+Tripoli
+Trump
+Tunk
+Twenty-five
+Twenty-nine
+Twenty-one
+Twin Beds (Poker)
+Twin Beds Wild (Poker)
+Two-Card Poker 
+Two-Card High-Low
+Two-Handed Games
+Two-Meld Rummy
+Uncle Doc
+Unlimited Loo
+Up and Down the River
+Uruguayan Canasta
+Uruguay
+Utah (Poker)
+Van John
+Variety
+Vice President (Poker)
+Vingt-et-un
+Vingt-un
+Vint
+Vive l’Amour
+War
+Washington’s Favorite (Solitaire)
+Weddings (Solitaire)
+Wellington
+Wescliffe (Solitaire)
+Whangdoodles (Poker)
+Whisk
+Whiskey Poker
+Whist
+Whist de Gand
+Whistler (Solitaire)
+Whitehead (Solitaire)
+White Pass (Solitaire)
+Widow Cinch
+Widow Nap 
+Wild-Card Canasta 
+Wild-Card Poker
+Wild-Card Rummy
+Wild Court Cards (Poker)
+Wild Face Cards (Poker)
+Wild Suit (Poker)
+Wild Widow (Poker)
+Woolworth (Poker)
+X Marks the Spot (Poker) 
+Yass
+Yerlash
+You Roll Two (Poker)
+Yukon (Solitaire)
+Zebra Poker
+Ziginette
+Zioncheck
+Zombie (Poker)
