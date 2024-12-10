@@ -1,47 +1,91 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <style>
-            body {
-                background-color: MediumSeaGreen;
-                background-image: url("g256.png");
-                background-repeat: repeat-x repeat-y;
-                background-attachment: fixed;
-                background-position: center;
-                color: #FFFFFF;
-                font-family: 'Avenir', sans-serif;
-                text-shadow: 2px 2px #000000;
-                
-            }
-            
-            
-            h1 {
-                font-size: 128px;
-                text-shadow: -2px -2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, 2px 2px 0 #000000;s
-            }
-            
-            p {
-                font-size: 32px;
-            }
-            
-            /* Centered Image Code */
-            .center {
-                margin: 0;
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                -ms-transform: translate(-50%, -50%);
-                transform: translate(-50%, -50%);
-            }
-        </style>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Coming Soon - JuiceCo</title>
+                <style>
+                    body {
+                        margin: 0;
+                        padding: 0;
+                        background-color: #000;
+                        color: #fff;
+                        font-family: Arial, sans-serif;
+                        display: flex;
+                        flex-direction: column;
+                        height: 100vh;
+                        justify-content: space-between;
+                        text-align: center;
+                    }
+                    
+                    .container {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        flex: 1;
+                    }
+                    
+                    .icon {
+                        font-size: 80px;
+                        margin-bottom: 20px;
+                    }
+                    
+                    .banner {
+                        font-size: 24px;
+                        font-weight: bold;
+                        background-color: #444;
+                        padding: 10px 20px;
+                        border-radius: 5px;
+                    }
+                    
+                    footer {
+                        background-color: #111;
+                        padding: 20px;
+                        font-size: 14px;
+                    }
+                    
+                    footer ul {
+                        list-style-type: none;
+                        padding: 0;
+                        margin: 0;
+                    }
+                    
+                    footer li {
+                        margin-bottom: 10px;
+                    }
+                    
+                    footer a {
+                        color: #00bcd4;
+                        text-decoration: none;
+                    }
+                    
+                    footer a:hover {
+                        text-decoration: underline;
+                    }
+                </style>
     </head>
     <body>
-        <layer id = "layer1"><img src="hand.png" class="center"></layer>
-        <layer id = "layer2">
-            <center class="center">
-                <h1>Cards</h1>
-                <p>Coming Soon</p>
-            </center>
-        </layer>
+        <div class="container">
+            <div class="icon">🚀</div> <!-- Replace with any icon or image -->
+            <div class="banner">Coming Soon</div>
+        </div>
+        
+        <footer>
+            <ul>
+                <li>
+                    &copy; <a href="https://juiceco.dev/">JuiceCo</a>
+                </li>
+                <li>
+                    JuiceCo does not collect user information. Privacy is a fundamental human right.
+                </li>
+                <li>
+                    Write Us: 2015 Pion Rd, Fort Wayne, IN 46845
+                </li>
+                <li>
+                    <a href="mailto:pearly-signed.9f@icloud.com">Email Us</a>
+                </li>
+            </ul>
+        </footer>
     </body>
 </html>
